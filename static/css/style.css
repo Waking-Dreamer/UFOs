@@ -1,0 +1,11 @@
+/* Apply light text color to the body of the page */
+body {
+    color: #f7f7f7;
+}
+
+/* Style the jumbotron with a background image */
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
